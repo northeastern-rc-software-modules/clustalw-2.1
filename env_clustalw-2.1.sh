@@ -5,7 +5,7 @@
 # CLUSTER_DIRECTORY needs to be modified
 module load explorer/1.0
 export CLUSTER_DIRECTORY=/shared/EL9/explorer
-export SOFTWARE_NAME=clustal
+export SOFTWARE_NAME=clustalw2
 export SOFTWARE_VERSION=2.1
 
 export GITHUB_URL=https://github.com/northeastern-rc-software-modules/blast-2.13.0.git
