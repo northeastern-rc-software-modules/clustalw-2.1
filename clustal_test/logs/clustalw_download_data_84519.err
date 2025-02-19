@@ -1,0 +1,11 @@
+--2025-02-18 22:57:40--  https://raw.githubusercontent.com/biopython/biopython/master/Doc/examples/ls_orchid.fasta
+Connecting to 10.99.0.130:3128... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: 76480 (75K) [text/plain]
+Saving to: ‘16s_rRNA_sequences.fasta’
+
+     0K .......... .......... .......... .......... .......... 66% 3.86M 0s
+    50K .......... .......... ....                            100% 13.2M=0.01s
+
+2025-02-18 22:57:40 (5.04 MB/s) - ‘16s_rRNA_sequences.fasta’ saved [76480/76480]
+
